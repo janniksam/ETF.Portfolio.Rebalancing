@@ -7,7 +7,7 @@ using System.Linq;
 namespace ETF.Portfolio.Rebalancing.Rebalancing
 {
     /// <summary>
-    /// This algo simulates to order piece after piece and recalculates the variance after each
+    /// This algorithm simulates to order piece after piece and recalculates the variance after each
     /// order. It is pretty fast but also very efficient and clever.
     /// </summary>
     public class FastButIntelligentAlgo : IRebalancer
