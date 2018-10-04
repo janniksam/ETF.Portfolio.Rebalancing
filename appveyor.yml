@@ -15,11 +15,11 @@ dotnet_csproj:
   file_version: '{build}'
   informational_version: '{version}'
 before_build:
-- cmd: dotnet restore Kinoheld.Api.Client\Kinoheld.Api.Client.sln
+- cmd: dotnet restore ETF.Portfolio.Rebalancing\ETF.Portfolio.Rebalancing.sln
 build:
   verbosity: minimal
 after_build:
-- cmd: dotnet pack Kinoheld.Api.Client\Kinoheld.Api.Client\Kinoheld.Api.Client.csproj
+- cmd: dotnet pack ETF.Portfolio.Rebalancing\ETF.Portfolio.Rebalancing\ETF.Portfolio.Rebalancing.csproj
 artifacts:
 - path: '**\*.nupkg'
 deploy: off

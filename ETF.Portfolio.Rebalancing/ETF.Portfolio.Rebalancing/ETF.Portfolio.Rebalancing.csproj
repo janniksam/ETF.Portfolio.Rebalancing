@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Title>Client for the Kinoheld API</Title>
+    <Description>Some basic algorythms to rebalance your ETF portfolio</Description>
+    <Authors>janniksam</Authors>
+    <Company>janniksam</Company>
+    <PackageProjectUrl>https://github.com/janniksam/ETF.Portfolio.Rebalancing</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright 2018 © janniksam</Copyright>
+    <Version>1.0.0</Version>
+    <PackageLicenseUrl>https://github.com/janniksam/ETF.Portfolio.Rebalancing/blob/master/LICENSE</PackageLicenseUrl>
+  </PropertyGroup>
+</Project>
