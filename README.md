@@ -6,11 +6,11 @@
 
 ## Description
 
-Collection of portfolio rebalance algorythms.
+Collection of portfolio rebalance algorithms.
 
 ## Basis usage:
  
-### Fast and intelligent algorythm
+### Fast and intelligent algorithm
 
 ```cs
 var portfolio = new List<ETFItem>
