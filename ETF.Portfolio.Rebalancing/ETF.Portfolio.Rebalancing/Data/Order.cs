@@ -1,6 +1,6 @@
 using System;
 
-namespace ETF.Portfolio.Rebalancing.CalculationModel
+namespace ETF.Portfolio.Rebalancing.Data
 {
     public class Order : ICloneable
     { 

@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace ETF.Portfolio.Rebalancing.Tests
 {
     [TestFixture(Category = "LV0")]
-    public class FastButIntelligentTests
+    public class FastButIntelligentAlgoTests
     {
         [Test]
         public void GivesBackACorrectResult()

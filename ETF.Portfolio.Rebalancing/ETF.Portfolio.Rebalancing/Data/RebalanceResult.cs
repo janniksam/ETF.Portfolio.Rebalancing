@@ -1,4 +1,3 @@
-using ETF.Portfolio.Rebalancing.CalculationModel;
 using System.Collections.Generic;
 
 namespace ETF.Portfolio.Rebalancing.Data

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Title>Client for the Kinoheld API</Title>
+    <Title>ETF Portfolio Rebalancing Algorythms</Title>
     <Description>Some basic algorythms to rebalance your ETF portfolio</Description>
     <Authors>janniksam</Authors>
     <Company>janniksam</Company>
