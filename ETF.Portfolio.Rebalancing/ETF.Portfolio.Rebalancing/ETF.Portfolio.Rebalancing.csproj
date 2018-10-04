@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Title>ETF Portfolio Rebalancing Algorythms</Title>
-    <Description>Some basic algorythms to rebalance your ETF portfolio</Description>
+    <Title>ETF Portfolio Rebalancing Algorithms</Title>
+    <Description>Some basic algorithms to rebalance your ETF portfolio</Description>
     <Authors>janniksam</Authors>
     <Company>janniksam</Company>
     <PackageProjectUrl>https://github.com/janniksam/ETF.Portfolio.Rebalancing</PackageProjectUrl>
